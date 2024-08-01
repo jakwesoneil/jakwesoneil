@@ -8,7 +8,7 @@ I am a passionate Programmer with a focus on creating web and mobile application
 - 🎓 Information Technology Undergraduate
 - 🌍 Based in Taytay, Rizal
 - 📧 Contact me at jakwesoneilgonzalez
-- 📝 Connect with me on [LinkedIn]([https://www.linkedin.com/your-linkedin-profile](https://www.linkedin.com/in/jacquesoneilgonzalez/))
+- 📝 Connect with me on [LinkedIn]([https://www.linkedin.com/jacquesoneilgonzalez](https://www.linkedin.com/in/jacquesoneilgonzalez/))
 
 ## Projects
 
@@ -52,7 +52,7 @@ Repository: [Gvendor](https://github.com/jakwesoneil/gvendor)
 
 ## Get in Touch
 
-Feel free to reach out to me via [email](mailto:jakwesoneilgonzalez@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jacquesoneilgonzalez/). I'm open to collaboration and always excited to discuss new projects!
+Feel free to reach out to me via [gmail](mailto:jakwesoneilgonzalez@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jacquesoneilgonzalez/). I'm open to collaboration and always excited to discuss new projects!
 
 ---
 
