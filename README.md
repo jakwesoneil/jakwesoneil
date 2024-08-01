@@ -7,7 +7,7 @@ I am a passionate Programmer with a focus on creating web and mobile application
 - 💻 Developer
 - 🎓 Information Technology Undergraduate
 - 🌍 Based in Taytay, Rizal
-- 📧 Contact me at jakwesoneilgonzalez
+- 📧 Contact me at jakwesoneilgonzalez@gmail.com
 - 📝 Connect with me on [LinkedIn]([https://www.linkedin.com/jacquesoneilgonzalez](https://www.linkedin.com/in/jacquesoneilgonzalez/))
 
 ## Projects
