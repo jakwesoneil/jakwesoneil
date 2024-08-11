@@ -41,7 +41,7 @@ Repository: [Gvendor](https://github.com/jakwesoneil/gvendor)
 
 ## Other Projects
 
-- [Project 3](https://github.com/jakwesoneil/SanaShelter_dogadoptionphp): A pet adoption web system using HTML, CSS, and PHP.
+- [SANA Shelter](https://github.com/jakwesoneil/SanaShelter_dogadoptionphp): A pet adoption web system using HTML, CSS, and PHP.
 
 ## Skills
 
