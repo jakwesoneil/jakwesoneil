@@ -1,47 +1,5 @@
-# Hello, I'm JakwesOneil! 👋
-
-I am a passionate Programmer with a focus on creating web and mobile applications. I specifically want to learn more about Java and React. Welcome to my GitHub profile, where you can explore some of my projects!
-
-## About Me
-
-- 💻 Developer
-- 🎓 Information Technology Undergraduate
-- 🌍 Based in Taytay, Rizal
-- 📧 Contact me at jakwesoneilgonzalez@gmail.com
-- 📝 Connect with me on [LinkedIn]([https://www.linkedin.com/jacquesoneilgonzalez](https://www.linkedin.com/in/jacquesoneilgonzalez/))
-
-## Projects
-
-### Slimodoro
-
-Slimodoro is a Flutter-based Mobile Pomodoro timer application designed to improve productivity.
-
-#### Features:
-- Pomodoro timer with work and break durations.
-- Task management with a simple to-do list.
-
-![Slimodoro](https://play-lh.googleusercontent.com/qYWxml8PUnka5_YHMGepiHRildfoaF_npJddlCSSVfFWI7LddqBSJ8dzTBOvr7bxIg=w240-h480-rw)
-
-Repository: [Slimodoro](https://github.com/jakwesoneil/slimodoro)
-
----
-
-### Gvendor
-
-GVendor is a web application central vendor repository which uses React as Frontend, Springboot as Backend, and Tailwind for styling.
-
-#### Features:
-- stores vendors, products, and employees for the organization.
-
-![Gvendor](https://globe.com/gvendor.png)
-
 Repository: [Gvendor](https://github.com/jakwesoneil/gvendor)
 
----
-
-## Other Projects
-
-- [SANA Shelter](https://github.com/jakwesoneil/SanaShelter_dogadoptionphp): A pet adoption web system using HTML, CSS, and PHP.
 
 ![👋 Hi, my name is Jacques Oneil Gonzalez](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
@@ -68,7 +26,13 @@ Repository: [Gvendor](https://github.com/jakwesoneil/gvendor)
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"> <img src="https://skillicons.dev/icons?i=spring" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/spring/6DB33F" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/flutter/02569B" height="32" alt="Flutter" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=flutter" height="32" alt="Flutter" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/git/F1502F" height="32" alt="Git" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="32" alt="Firebase" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="React" style="margin-right: 4px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"> <img src="https://skillicons.dev/icons?i=spring" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/spring/6DB33F" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=flutter" height="32" alt="Flutter" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/git/F1502F" height="32" alt="Git" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="32" alt="Firebase" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="React" style="margin-right: 4px"></div>
+
+**<h3 align="left">Skills</h3>**
+
+- [Slimodoro](https://play.google.com/store/apps/details?id=com.application.slimodoro)
+- [SANA Shelter](https://github.com/jakwesoneil/SanaShelter_dogadoptionphp)
+- [Gvendor](https://github.com/jakwesoneil/gvendor)
 
  **<h3 align="left">GitHub Stats</h3>**
 
